@@ -15,7 +15,7 @@ public class Login {
 		driver = utilities.DriverFactory.open(browserType);
 
 		// 2. Navigate to the web application
-		driver.get("http://sdettraining.com/trguitransactions/AccountManagement.aspx");
+		// driver.get("http://sdettraining.com/trguitransactions/AccountManagement.aspx");
 		// 3.
 		
 	}
